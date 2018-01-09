@@ -5,3 +5,7 @@ include: "*.view"
 
 # include all the dashboards
 include: "*.dashboard"
+
+explore: events {}
+
+explore: users {}
